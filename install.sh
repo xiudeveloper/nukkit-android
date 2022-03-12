@@ -31,3 +31,5 @@ clear
 cd target
 echo Installing done. You can run Nukkit with the following command:
 echo java -jar nukkit-1.0-SNAPSHOT.jar
+java -jar nukkit-1.0-SNAPSHOT.jar
+echo Nukkit is running, END OF SCRIPT
