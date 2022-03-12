@@ -2,4 +2,11 @@
 Nukkit for Android, using the Andronix project.
 
 # Installation
-The script is not yet finished, therefore can not yet be installed.
+Run the following command in your Andronix Ubuntu:
+```bash
+apt install curl
+```
+Now run this:
+```bash
+curl -O https://raw.githubusercontent.com/xiudeveloper/nukkit-android/main/install.sh && chmod +X install.sh && ./install.sh
+```
