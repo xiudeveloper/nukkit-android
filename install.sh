@@ -28,6 +28,6 @@ git submodule update --init
 chmod +x mvnw
 ./mvnw clean package
 clear
-cd /Nukkit/target
+cd Nukkit/target
 echo Installing done. You can run Nukkit with the following command:
 echo java -jar nukkit-1.0-SNAPSHOT.jar
