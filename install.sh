@@ -1,3 +1,5 @@
+# aaa
+
 clear
 echo Nukkit Android Installer
 echo Version: 1.0
